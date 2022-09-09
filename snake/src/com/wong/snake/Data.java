@@ -3,7 +3,7 @@ package com.wong.snake;
 import javax.swing.*;
 import java.net.URL;
 
-// STORE DATA
+// STORE OUTSIDE DATA
 public class Data {
 
     // IMG OF HEADER URL  LOCATE THE IMG  ImageIcon IMG
