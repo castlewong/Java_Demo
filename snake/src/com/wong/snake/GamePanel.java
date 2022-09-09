@@ -31,9 +31,7 @@ public class GamePanel extends JPanel {
         g.fillRect(25, 75,850,600); // DRAW GAME AREA
 
         // DRAW A STATIC SNAKE
-        Data.right.paintIcon(this,g,snakeX[0],snakeY[0]);
-
-        for (int i = 0; i< length; i++){
+        for (int i = 1; i< length; i++){
             Data.body.paintIcon(this,g,snakeX[i],snakeY[i]);
         }
     }

@@ -21,10 +21,10 @@ public class Data {
     public  static ImageIcon right = new ImageIcon(rightURL);
 
     // BODY
-    public static URL bodyURL = Data.class.getResource("statics/body.png");
+    public static URL bodyURL = Data.class.getResource("/statics/body.png"); // JUST DON'T FORGET SLASH
     public static ImageIcon body = new ImageIcon(bodyURL);
 
     // FOOD
-    public static URL foodURL = Data.class.getResource("statics/food.png");
+    public static URL foodURL = Data.class.getResource("/statics/food.png");
     public static ImageIcon food = new ImageIcon(foodURL);
 }

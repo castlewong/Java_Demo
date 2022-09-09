@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="424124f8-3e40-4f18-a028-7038fdefadb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="424124f8-3e40-4f18-a028-7038fdefadb1" name="Changes" comment="test IJ commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/snake/com/wong/snake/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/snake/com/wong/snake/Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/snake/com/wong/snake/GamePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/snake/com/wong/snake/GamePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/snake/com/wong/snake/StartGames.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/snake/com/wong/snake/StartGames.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/wong/snake/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wong/snake/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wong/snake/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wong/snake/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wong/snake/StartGames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wong/snake/StartGames.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,20 +28,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/ssd4wilbur/IdeaProjects/Java_Demo/snake",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ssd4wilbur/IdeaProjects/Java_Demo/snake&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="StartGames" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wong.snake.StartGames" />
@@ -67,8 +66,17 @@
       <option name="presentableId" value="Default" />
       <updated>1662659384632</updated>
       <workItem from="1662659385721" duration="8000" />
-      <workItem from="1662725285426" duration="2028000" />
+      <workItem from="1662725285426" duration="2141000" />
+      <workItem from="1662730433829" duration="35000" />
     </task>
+    <task id="LOCAL-00001" summary="test IJ commit">
+      <created>1662728108198</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662728108198</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test IJ commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test IJ commit" />
   </component>
 </project>
